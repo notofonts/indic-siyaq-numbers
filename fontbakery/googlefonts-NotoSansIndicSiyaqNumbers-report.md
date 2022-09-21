@@ -2,11 +2,7 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[6] NotoSansIndicSiyaqNumbers-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Name table records must not have trailing spaces. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/name/trailing_spaces">com.google.fonts/check/name/trailing_spaces</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name table record with key = (3, 1, 1033, 256) has trailing spaces that must be removed: 'Alternate [...]lderName: ' [code: trailing-space]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
+<details><summary><b>[5] NotoSansIndicSiyaqNumbers-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
 
 
 * ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
@@ -48,7 +44,7 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 1 | 5 | 110 | 7 | 104 | 0 |
+| 0 | 0 | 5 | 110 | 7 | 105 | 0 |
 | 0% | 0% | 2% | 48% | 3% | 46% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
